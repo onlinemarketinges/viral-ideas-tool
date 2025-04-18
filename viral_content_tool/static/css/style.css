@@ -1,0 +1,6 @@
+body { font-family:sans-serif; margin:1em; }
+header { text-align:center; }
+#controls { text-align:center; margin:1em; }
+#list { list-style:none; padding:0; }
+#list li { margin-bottom:1.5em; }
+.performance { font-weight:bold; color:#4a6cf7; }
